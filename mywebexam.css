@@ -1,0 +1,229 @@
+.container-fluid{
+    background-color: cadetblue;
+    padding: 50px;
+    color: white;
+    font-weight: bold;
+}
+.btn{
+    padding: 7px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    background-color: rgb(105, 238, 81);
+    color: rgb(64, 20, 20);
+}
+.nav-item{
+    color: white;
+    font-size: 25px;
+    color-scheme: white;
+}
+.middlediv{
+    margin-top: 0px;
+    background-color: cyan;
+    padding: 40px;
+    
+}
+.header1{
+    font-weight: bold;
+}
+.last{
+    word-spacing: 50px;
+}
+
+.button2{
+    background-color: rgb(161, 198, 124);
+    border: none;
+    border-radius: 40px;
+}
+.bookform{
+    width: 500px;
+}
+.col-sm-10{
+    width: 500px;
+}
+.search2{
+    background-image: url(./eating.jpg);
+    padding: 70px;
+    color: white;
+
+}
+.search3{
+    background-color: blanchedalmond;
+}
+.list{
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    position: relative;
+font-size: 20px;
+order: 2;
+padding: 20px;
+height: 200px;
+}
+.comments{
+    margin-top: 20px;
+    margin: 0px;
+    background-color: aquamarine;
+}
+.baloon{
+    margin: 60px;
+    background-color: rgb(113, 233, 113);
+    border: 2px solid pink;
+    padding: 25px;
+    height: 359px;
+}
+.images{
+    display: flex;
+    justify-content: center;
+
+}
+.itemsinimages{
+  
+    block-size: 200px;
+    margin: 20px;
+}
+.signupnow{
+    
+        background-color: red;
+        border-color: red;
+        width: 150px;
+        height: 40px;
+        border-radius: 70px;
+        color: white; 
+}
+.leftimage{
+    
+    display: flex;
+}
+.show{
+    display:inline-flex;
+    margin: 20px;
+}
+.placesorder{
+      
+    column-count: 2;
+    column-gap: 20px;
+}
+.left{
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+}
+.body{
+    margin: 0px;
+    padding: 0px;
+}
+.heart{
+    background-color: rgb(100, 178, 152);
+}
+.entry {
+margin-left: 80px;
+	margin-bottom: 25px;
+	padding: 5px;   
+}
+.first {
+    width: 100%;
+    display: flex;
+}
+
+.border{
+    padding: 15px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    background-color:white;
+    border-radius: 10px;
+}
+.menu{
+    background-color: rgb(109, 241, 126);
+}
+  .lastorder{
+    height: 150px;
+}
+.left {
+    background-color: #2196F3;
+    padding: 10px;
+    float: left;
+    width: 25%;
+    height: 340px;
+}
+  
+.main 
+{
+    background-image: url('./costa\ rica.jpg');
+    background-color: #f1f1f1;
+    float: left;
+    padding: 10px;
+    width: 30%;
+    height: 340px;
+ }
+.right {
+   background-image: url('./baloon.jpeg');
+    float: left;
+    padding: 10px;
+    width: 40%;
+    height: 340px;
+}
+#safariheader {
+    color: forestgreen;
+    padding: 20px;
+    text-align: center;
+  }
+  .container{
+    border: dotted;
+    background-color: aquamarine;
+  }
+  #seconddivision{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: grey;
+    border-width: 20px;
+}
+#box{
+    height: 400px;
+    width: 400px;
+    border-style: solid;
+    border-color:green;
+    border-width: 35px;
+    display: flex;
+    align-items: center;
+    color: rgb(0, 0, 0);
+    justify-content: center;
+    
+}
+.flexing{
+    display: flex;
+    margin: 30px;
+    align-items: center;
+}
+.boxsize{
+    width: 700px;
+    border-radius: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 120px; 
+    background-color:chartreuse;
+}
+.imagesize1{
+    width: 400px;
+    height: 3500px;
+}
+.circlesize{
+    font-size: 80px;   
+}
+#circle{
+    margin-top: 10px;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: rgb(255, 0, 0);
+    border-width: 15px;
+    text-align: center;
+    margin-right: 40px;
+    display: flex;
+    align-items: center;
+    color: aliceblue;
+    justify-content: center;
+    
+}
